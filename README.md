@@ -10,8 +10,10 @@ Encryption is not a executable programm at the moment:
 4. Now you can **run the Programm** by clicking the dedicated button or pressing the according shortcut. (Generally a combination of __ctrl + any f key__ )
 ##### How to use Encryption:
 The programm will ask you for the input of a word and a number. Then you will recieve your encrypted word. Pretty neat right?
-##### About the man behind Encryption:
-[Manuel Schwarz](https://github.com/dermanuelschwarz/dermanuelschwarz/blob/main/README.md)
+##### My (Manuel Schwarz) GitHub profie:
+[Manuel Schwarz](https://github.com/manuelschwarzBSD)
+##### My university:
+[Campus02](https://www.campus02.at)
 ##### Exercises:
 1. [exercise1](exercise1.md) In this exercise i gave a short overview over the TV series "Spongebob Squarepants"
 2. [exercise2](exercise2.md) This exercise foucses around all the main git commands.
