@@ -13,4 +13,5 @@ The programm will ask you for the input of a word and a number. Then you will re
 ##### About the man behind Encryption:
 [Manuel Schwarz](https://github.com/dermanuelschwarz/dermanuelschwarz/blob/main/README.md)
 ##### Exercises:
-1. [exercise1]("C:\Users\derma\Desktop\uni\2.sem\konfig\Übungen\uebungsabgabe1\exercicse1.md")
+1. [exercise1](exercise1.md) In this exercise i gave a short overview over the TV series "Spongebob Squarepants"
+2. [exercise2](exercise2.md) This exercise foucses around all the main git commands.
