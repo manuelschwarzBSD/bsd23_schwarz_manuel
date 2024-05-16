@@ -17,4 +17,4 @@ The programm will ask you for the input of a word and a number. Then you will re
 ##### Exercises:
 1. [exercise1](exercise1.md) In this exercise i gave a short overview over the TV series "Spongebob Squarepants"
 2. [exercise2](exercise2.md) This exercise foucses around all the main git commands.
-3. [exercise3](exercise3.md) Here we worked with Maven and the versioning of a Java Project
+3. [exercise3](exercise3.md) Here we worked with Maven and the versioning of a Java Project.
