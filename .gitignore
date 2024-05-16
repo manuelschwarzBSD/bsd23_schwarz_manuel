@@ -1,3 +1,5 @@
+*.hmtl
+*.pdf
 idea/
 
 target/
