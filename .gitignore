@@ -1,6 +1,6 @@
 *.hmtl
 *.pdf
-idea/
+.idea/
 
 target/
 !.mvn/wrapper/maven-wrapper.jar
