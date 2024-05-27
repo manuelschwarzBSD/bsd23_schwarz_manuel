@@ -12,7 +12,6 @@ public class CalculatorTest {
 
     @BeforeAll
     public static void setUp() {
-        // No need to create an instance since methods are static
     }
 
     @DisplayName("Testing add() method")
