@@ -2,6 +2,7 @@
 *.html
 *.pdf
 .idea/
+*.log
 
 target/
 !.mvn/wrapper/maven-wrapper.jar
