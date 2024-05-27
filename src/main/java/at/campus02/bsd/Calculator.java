@@ -26,8 +26,18 @@ public class Calculator {
         return a * b;
     }
 
-    public static double factorial(int n) {
-        return 0;
+    public static double factorial(int a) {
+        double fact = a;
+        if (a == 0 || a == 1) {
+            fact = 1;
+        }
+        if (a < 0) {
+            fact = 0;
+        }
+        for (int i = a - 1; i > 0; i--) {
+            fact *= i;
+        }
+        return fact;
     }
 
 
