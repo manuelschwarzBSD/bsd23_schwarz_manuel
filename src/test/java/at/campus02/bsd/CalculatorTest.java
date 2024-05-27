@@ -84,4 +84,28 @@ public class CalculatorTest {
     public void testMultiply3() {
         assertEquals(0, Calculator.multiply(4,0));
     }
+
+    @DisplayName("Testing factorial() method")
+    @Test
+    public void testFactorial1() {
+        assertEquals(1, Calculator.factorial(0));
+    }
+
+    @DisplayName("Testing factorial() method")
+    @Test
+    public void testFactorial2() {
+        assertEquals(1, Calculator.factorial(1));
+    }
+
+    @DisplayName("Testing factorial() method")
+    @Test
+    public void testFactorial3() {
+        assertEquals(0, Calculator.factorial(-2));
+    }
+
+    @DisplayName("Testing factorial() method")
+    @Test
+    public void testFactorial4() {
+        assertEquals(120, Calculator.factorial(5));
+    }
 }
