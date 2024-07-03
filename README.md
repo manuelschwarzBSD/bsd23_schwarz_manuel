@@ -20,3 +20,4 @@ The programm will ask you for the input of a word and a number. Then you will re
 3. [exercise3](exercise3.md) Here we worked with Maven and the versioning of a Java Project.
 4. [exercise4](exercise4.md) Testcases were added to Maven organised Java project of exercise 3.
 5. [exercise5](exercise5.md) Logging was added.
+6. [exercise6](exercise6.md) Maven Site Documentation was added
